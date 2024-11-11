@@ -11,7 +11,7 @@ Kubus dimulai dari susunan acak, dan pencarian solusi dilakukan melalui beberapa
 
 Proyek ini juga mencakup eksperimen untuk membandingkan efektivitas masing-masing metode dalam menemukan solusi yang memenuhi sifat-sifat Diagonal Magic Cube.
 
-## Struktur Proyek
+## Struktur File
 
 - **/src**: Berisi implementasi metode local search.
 - **/doc**: Berisi file laporan.
