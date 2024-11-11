@@ -30,5 +30,3 @@ Proyek ini juga mencakup eksperimen untuk membandingkan efektivitas masing-masin
 | 18222030       | Vini Putiasa |        |
 | 18222031       | Benedicta Eryka Santosa |        |
 | 18222090       | Kerlyn Deslia Andeskar |       |
-
-Silakan disesuaikan dengan nama anggota dan target waktu sesuai kebutuhan proyek.
