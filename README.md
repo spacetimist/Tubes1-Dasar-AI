@@ -27,7 +27,7 @@ Proyek ini juga mencakup eksperimen untuk membandingkan efektivitas masing-masin
 
 | NIM      | Nama                                        | Tugas   |
 |-------------------|----------------------------------------------|--------------------------|
-| 18222002       | Yasra Zhafirah       |
-| 18222030       | Vini Putiasa |        |
-| 18222031       | Benedicta Eryka Santosa |        |
-| 18222090       | Kerlyn Deslia Andeskar |       |
+| 18222002       | Yasra Zhafirah       |Membuat program source code, README.md.
+| 18222030       | Vini Putiasa |Membuat fungsi objektif, mengerjakan pembahasan implementasi algoritma, pembahasan hasil eksperimen dan analisis pertanyaan, kesimpulan.         |
+| 18222031       | Benedicta Eryka Santosa |Mengerjakan pembahasan.        |
+| 18222090       | Kerlyn Deslia Andeskar |Mengerjakan deskripsi persoalan, pembahasan, kesimpulan & saran, fungsi ascii.       |
