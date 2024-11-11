@@ -19,8 +19,9 @@ Proyek ini juga mencakup eksperimen untuk membandingkan efektivitas masing-masin
 ## Cara Menjalankan
 
 1. Clone repositori ini dan navigasikan ke direktori proyek.
-2. Jalankan **`main.ipynb`** untuk memulai eksperimen dengan konfigurasi default.
-3. Hasil eksperimen akan muncul di file yang sama.
+2. Klik 'Run All' pada file **`main.ipynb`** untuk memulai eksperimen dengan konfigurasi default.
+3. Apabila menggunakan VSCode, input masukan pada **search bar** di bagian atas ketika diminta input.
+4. Hasil eksperimen akan muncul di file yang sama.
 
 ## Pembagian Tugas
 
